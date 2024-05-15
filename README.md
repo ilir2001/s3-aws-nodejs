@@ -15,7 +15,7 @@ Before running this application, ensure you have the following installed:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/s3-aws-nodejs.git
+    git clone https://github.com/ilir2001/s3-aws-nodejs.git
     ```
 
 2. Navigate into the project directory:
